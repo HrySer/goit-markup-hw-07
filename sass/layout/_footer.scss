@@ -1,12 +1,12 @@
 /*Футер*/
 
 .footer {
-  background: var(--footer-color);
+  background: var($footer-color);
   height: 252px;
 }
 
 .footer .logo {
-  color: var(--title-dark-theme-color);
+  color: var($title-dark-theme-color);
   width: 153px;
 }
 
@@ -14,7 +14,7 @@
   display: flex;
 }
 
-.footer-contenta {
+.footer-content {
   padding-top: 60px;
   padding-bottom: 60px;
 }
@@ -26,7 +26,7 @@
   margin-bottom: 20px;
 }
 
-.footer-contenta {
+.footer-content {
   margin-right: 69px;
 }
 

@@ -8,11 +8,11 @@
   justify-content: space-between;
 }
 
-.comand-list-item:not(:last-child) {
+.command-list-item:not(:last-child) {
   margin-right: 30px;
 }
 
-.comand-list-item {
+.command-list-item {
   width: 270px;
   height: 422px;
   background: var(--title-dark-theme-color);
@@ -31,7 +31,7 @@
   margin-bottom: 10px;
 }
 
-.comand-list-item-img {
+.command-list-item-img {
   margin-bottom: 30px;
 }
 
